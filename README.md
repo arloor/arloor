@@ -1,3 +1,3 @@
-[![Arloor's GitHub stats](https://github-readme-stats.vercel.app/api?username=arloor)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Arloor's GitHub stats](https://github-readme-stats.vercel.app/api?username=arloor)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Metrics](/github-metrics.svg)
