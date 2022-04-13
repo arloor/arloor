@@ -1,6 +1,4 @@
-## 我是arloor，常来看看
-
-美团基础架构、监控系统方向、Github收获千星
+**关键词**：美团基础架构、监控系统方向、Github收获千星
 
 - :book:个人博客
   - [www.arloor.com](https://www.arloor.com/)
