@@ -9,7 +9,5 @@
 - :mortar_board:学位学历
   - 南京大学软件学院本科毕业，学士学位 
 
-
-<!-- [![Arloor's GitHub stats](https://github-readme-stats.vercel.app/api?username=arloor)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ![Metrics](/github-metrics.svg)
+[![Arloor's GitHub stats](https://github-readme-stats.vercel.app/api?username=arloor)](https://github.com/anuraghazra/github-readme-stats)
