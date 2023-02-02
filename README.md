@@ -11,5 +11,5 @@
 
 
 [![arloor's GitHub stats](https://stats.quine.sh/arloor/github?simple=true)](https://quine.sh/profile/arloor)
-![Metrics](/github-metrics.svg)
+<!-- ![Metrics](/github-metrics.svg) -->
 <!-- [![Arloor's GitHub stats](https://github-readme-stats.vercel.app/api?username=arloor)](https://github.com/anuraghazra/github-readme-stats) -->
