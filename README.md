@@ -1,15 +1,31 @@
-**关键词**：美团基础架构、监控系统方向、Github收获千星
+### 经历
+- 2015-2019，南京大学软件学院，工学学士学位
+- 2019-2020，招商银行信用卡中心，平台架构组
+- 2020-至今，美团基础技术部，监控系统组
 
-- :book:个人博客
-  - [www.arloor.com](https://www.arloor.com/)
-- :mailbox_with_no_mail:联系方式
-  - admin@arloor.com
-- :computer:工作
-  - 美团基础架构-监控系统组，目前主要从事trace系统开发
-- :mortar_board:学位学历
-  - 南京大学软件学院本科毕业，学士学位 
+### 项目
 
+- 美团：分布式链路追踪系统负责人
+- 美团：可视化大盘（对标Grafana）开发负责人
+- 美团：主机监控团队主要成员
+- 招商银行信用卡中心：Redis集群代理
+- 招商银行信用卡中心：基于ElasticSearch的搜索平台
+- 开源：[基于iptables和shell的nat规则管理脚本 1200+Star](https://github.com/arloor/iptablesUtils)
+- 开源：[基于nftables和rust语言的nat管理程序 500+Star](https://github.com/arloor/nftables-nat-rust)
+- 开源：[基于netty的带混淆的HttpProxy 200+Star](https://github.com/arloor/HttpProxy)
 
-[![arloor's GitHub stats](https://stats.quine.sh/arloor/github?simple=true)](https://quine.sh/profile/arloor)
-<!-- ![Metrics](/github-metrics.svg) -->
-<!-- [![Arloor's GitHub stats](https://github-readme-stats.vercel.app/api?username=arloor)](https://github.com/anuraghazra/github-readme-stats) -->
+### 博客
+
+- [可观测性](https://www.arloor.com/tags/%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7/)
+- [Redis](https://www.arloor.com/tags/redis/)
+
+### 语言
+
+- 主要：Java
+- 次要：Go
+- 自嗨：Rust、Python、C
+
+### GitHub stats
+
+<!-- [![arloor's GitHub stats](https://stats.quine.sh/arloor/github?simple=true)](https://quine.sh/profile/arloor) -->
+![Metrics](/github-metrics.svg)
