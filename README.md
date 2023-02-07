@@ -1,5 +1,3 @@
-![](/img/青蛙海.png)
-
 ### 经历
 - 2015-2019，南京大学软件学院，工学学士学位
 - 2019-2020，招商银行信用卡中心，平台架构组
@@ -31,3 +29,5 @@
 
 <!-- [![arloor's GitHub stats](https://stats.quine.sh/arloor/github?simple=true)](https://quine.sh/profile/arloor) -->
 ![Metrics](/github-metrics.svg)
+
+![](/img/青蛙海.png)
