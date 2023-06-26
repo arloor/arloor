@@ -1,3 +1,8 @@
+### GitHub stats
+
+<!-- [![arloor's GitHub stats](https://stats.quine.sh/arloor/github?simple=true)](https://quine.sh/profile/arloor) -->
+![Metrics](/github-metrics.svg)
+
 ### 经历
 
 - 2023-至今，小红书，可观测性研发组
@@ -26,10 +31,5 @@
 - 主要：Java
 - 次要：Go
 - 自嗨：Rust、Python、C
-
-### GitHub stats
-
-<!-- [![arloor's GitHub stats](https://stats.quine.sh/arloor/github?simple=true)](https://quine.sh/profile/arloor) -->
-![Metrics](/github-metrics.svg)
 
 ![](/img/青蛙海.png)
