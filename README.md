@@ -23,7 +23,7 @@
 
 ### 博客
 
-- [可观测性](https://www.arloor.com/tags/%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7/)
+- [可观测性](https://www.arloor.com/tags/obs/)
 - [Redis](https://www.arloor.com/tags/redis/)
 
 ### 语言
