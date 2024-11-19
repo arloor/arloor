@@ -18,18 +18,20 @@
 - 美团：主机监控团队主要成员
 - 招商银行信用卡中心：Redis集群代理
 - 招商银行信用卡中心：基于ElasticSearch的搜索平台
-- 开源：[iptablesUtils](https://github.com/arloor/iptablesUtils) Star1300+
-- 开源：[nftables-nat-rust](https://github.com/arloor/nftables-nat-rust) Star650+
-- 开源：[HttpProxy](https://github.com/arloor/HttpProxy) Star200+
-- 开源：[rust_http_proxy](https://github.com/arloor/rust_http_proxy) Star20+
+- 开源：[iptablesUtils](https://github.com/arloor/iptablesUtils) Star1400+
+- 开源：[nftables-nat-rust](https://github.com/arloor/nftables-nat-rust) Star700+
+- 开源：[HttpProxy](https://github.com/arloor/HttpProxy) Star250+
+- 开源：[rust_http_proxy](https://github.com/arloor/rust_http_proxy) Star30+
 
 ### 博客
 
 - [可观测性](https://www.arloor.com/tags/obs/)
 - [Redis](https://www.arloor.com/tags/redis/)
-- [Java](https://www.arloor.com/tags/java/)
 - [eBPF](https://www.arloor.com/tags/ebpf/)
 - [K8S](https://www.arloor.com/tags/k8s/)
+- [Rust](https://www.arloor.com/tags/rust/)
+- [Golang](https://www.arloor.com/tags/golang/)
+- [Java](https://www.arloor.com/tags/java/)
 
 ### 语言
 
