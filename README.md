@@ -35,8 +35,8 @@
 
 ### 语言
 
-- 主要：Java
-- 次要：Rust、go
+- 主要：go
+- 次要：Rust、Java
 - 初学：Python、C
 
 ![](/img/青蛙海.png)
