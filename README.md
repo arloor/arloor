@@ -39,4 +39,4 @@
 - 次要：Rust、Java
 - 初学：Python、C
 
-![](/img/青蛙海.png)
+[![arloor's GitHub | Languages Over Time](https://stats.quira.sh/arloor/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=arloor)
