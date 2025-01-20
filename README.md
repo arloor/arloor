@@ -1,7 +1,7 @@
 ### GitHub stats
 
-<!-- [![arloor's GitHub stats](https://stats.quine.sh/arloor/github?simple=true)](https://quine.sh/profile/arloor) -->
-![Metrics](/github-metrics.svg)
+[![arloor's GitHub stats](https://stats.quine.sh/arloor/github?simple=true)](https://quine.sh/profile/arloor)
+<!--![Metrics](/github-metrics.svg)-->
 
 ### 经历
 
