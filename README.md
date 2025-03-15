@@ -1,7 +1,6 @@
 ### GitHub stats
 
-[![arloor's GitHub | Stats](https://stats.quira.sh/arloor/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=arloor)
-<!--![Metrics](/github-metrics.svg)-->
+![Metrics](/github-metrics.svg)
 
 ### 经历
 
@@ -38,5 +37,3 @@
 - 主要：go
 - 次要：Rust、Java
 - 初学：Python、C
-
-[![arloor's GitHub | Languages Over Time](https://stats.quira.sh/arloor/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=arloor)
