@@ -1,6 +1,6 @@
 ### GitHub stats
 
-![Metrics](/github-metrics.svg)
+<!--![Metrics](/github-metrics.svg)-->
 
 ### 经历
 
@@ -31,9 +31,3 @@
 - [Rust](https://www.arloor.com/tags/rust/)
 - [Golang](https://www.arloor.com/tags/golang/)
 - [Java](https://www.arloor.com/tags/java/)
-
-### 语言
-
-- 主要：go
-- 次要：Rust、Java
-- 初学：Python、C
